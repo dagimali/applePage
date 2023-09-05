@@ -109,15 +109,16 @@ img {
 .hcard {
   background-repeat: no-repeat;
   background-position: center;
-  height: 45px;
-  background-size: 15vw;
+  height: 75px;
+  background-size: 75px;
+  display: block;
 }
 
 .hcard2 {
   background-repeat: no-repeat;
   background-position: center;
-  height: 45px;
-  background-size: 15vw;
+  height: 75px;
+  background-size: 75px;
 }
 .servant {
   padding: 120px 0 160px;
